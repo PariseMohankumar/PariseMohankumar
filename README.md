@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 Hi there! I'm Mohan Kumar
+## 👋 Hi there! I'm Mohan Kumar
 
 🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌐 Tech Enthusiast
 
